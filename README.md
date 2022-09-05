@@ -1,9 +1,9 @@
 <div>
-  <h1 align="center"> Hi there! My name is Isabela👋 </h1>
+  <h1 align="center"> Hi there! I'm Isabela 👋 </h1>
  </div>
 <br>
-<div>
-  <h2 align="center">  ✨ I'm currently learning:</h2>
+<div align="center">
+  <h2> ✨ I'm currently learning:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
