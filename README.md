@@ -4,7 +4,7 @@ Hi there! I'm Isabela
 <br>
 
 * :earth_americas: Based in Brazil.
-* :mortar_board: College student on Analysis and Development of Systems.
+* :mortar_board: College student on Systems Analysis and Development.
 * :books: Started my journey  in the beginning of this year (2022).
 * :dart: Goal is to become a fullstack developer.
 
